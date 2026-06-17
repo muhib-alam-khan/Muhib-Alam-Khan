@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Muhib Alam Khan
 
-<!--
-**muhib-alam-khan/Muhib-Alam-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Web Developer & Mobile App Creator
 
-Here are some ideas to get you started:
+🚀 Passionate about building modern, responsive, and interactive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently improving my JavaScript skills
+- 🎨 Love creating beautiful UI designs and CSS animations
+- 📱 Interested in Mobile App Development
+- 💡 Always learning new technologies
+- 🤝 Open to collaboration and freelance opportunities
+
+---
+
+## 🚀 Skills
+
+### Frontend Development
+- ✅ HTML5
+- ✅ CSS3
+- ✅ Bootstrap
+- ✅ JavaScript (ES6+)
+
+### Design & Animation
+- ✅ Responsive Web Design
+- ✅ CSS Animations
+- ✅ Modern UI/UX Design
+
+---
+
+## 📊 GitHub Goals
+
+- Build amazing web applications
+- Create professional mobile apps
+- Contribute to open-source projects
+- Continuously learn and grow as a developer
+
+---
+
+## 📫 Connect With Me
+
+💼 Frontend Developer  
+🚀 Future Full-Stack Developer
+
+---
+
+### ✨ Favorite Quote
+
+> "Code is not just about solving problems; it's about creating experiences."
+
+⭐ Thanks for visiting my profile!
